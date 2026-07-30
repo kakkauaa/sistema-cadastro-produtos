@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Produtos
 Sistema de cadastro de produtos desenvolvido com python, com opções de cadastrar produtos, listar, atualizar, buscar e excluir. Projeto feito com o objetivo de praticar as funcionalidades do python e melhorar a lógica de programação.
-## objetivo
+## Objetivo
 Projeto desenvolvido com o intuito de praticar funções do python e lógica de programação.
 
 ## Funcionalidades
